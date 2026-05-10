@@ -117,18 +117,13 @@ git init
 git add .
 git commit -m "Initial commit: EduAI Assistant"
 # create a repo on GitHub and replace the URL below
-git remote add origin https://github.com/<your-username>/<repo-name>.git
+git remote add origin https://github.com/Teshome-Worku/eduai-assistant.git
 git branch -M main
 git push -u origin main
 ```
-
-Recommended repository names: `eduai-assistant`, `eduai-platform`, `eduai-learning`, `eduai-studio`.
 
 ## Deploying
 
 - Backend: Render / Heroku / any Node host. Ensure `MONGO_URI` and API keys are set in the host's environment.
 - Frontend: Build with `npm run build` and serve `dist` as a static site (Render Static Site, Netlify, Vercel).
 
-## License & Contact
-
-Add a `LICENSE` file if you want to open-source this project. Contact: add your email in the repo description.
