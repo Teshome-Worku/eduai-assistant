@@ -2,6 +2,34 @@
 
 EduAI Assistant is an AI-powered learning platform that extracts knowledge from documents, tracks topic mastery, detects weaknesses, predicts exam readiness, and adapts learning strategies.
 
+
+## Preview
+
+Below are example screenshots. 
+# login
+![Login](screenshots/login.png)
+
+# register
+![Register](screenshots/register.png)
+
+# dashboard
+![Dashboard](screenshots/dashboard.png)
+
+# document list and upload
+![Document](screenshots/documentUpload.png)
+
+# AI assistant
+![AI Assistant](screenshots/AI-assistant.png)
+
+# quiz
+![Quiz](screenshots/quiz.png)
+
+# Exam readiness
+![Exam Readiness](screenshots/examready.png)
+
+# Revision
+![Revision](screenshots/revision.png)
+
 ## Quick overview
 
 - Frontend: React + Vite
